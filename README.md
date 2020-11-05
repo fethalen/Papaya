@@ -2,7 +2,7 @@
 
 A dark, clean and elegant Visual Studio Code theme.
 
-![Papaya theme screenshot](/images/screenshot.png)
+![Papaya theme screenshot](https://raw.githubusercontent.com/fethalen/papaya/main/images/screenshot.png)
 
 This theme is an adaption of [HenryNewcomer's "Papaya" Theme for
 Vim](https://github.com/HenryNewcomer/vim-theme-papaya). It provides a rich
