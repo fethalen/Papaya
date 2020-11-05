@@ -3,7 +3,8 @@
     "displayName": "Papaya",
     "description": "Attention to the important things",
     "publisher": "fethalen",
-    "version": "0.0.1",
+    "icon": "images/logo_128x128.png",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "git://github.com/fethalen/papaya.git"

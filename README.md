@@ -1,5 +1,9 @@
 # "Papaya" Theme for Visual Studio Code
 
+A dark, clean and elegant Visual Studio Code theme.
+
+![Papaya theme screenshot](/images/screenshot.png)
+
 This theme is an adaption of [HenryNewcomer's "Papaya" Theme for
 Vim](https://github.com/HenryNewcomer/vim-theme-papaya). It provides a rich
 color palette, with colors that are easy to distinguish, while remaining easy on
@@ -15,10 +19,5 @@ out.
 1. Open the "Extensions" tab in the sidebar by typing <kbd>⇧</kbd> +
    <kbd>Ctrl</kbd> + <kbd>X</kbd> on Windows or Linux, or by typing <kbd>⇧</kbd>
    + <kbd>⌘</kbd> + <kbd>X</kbd> on macOS
-
-## Credits
-
-This theme is an adaption of [HenryNewcomer's "Papaya" Theme for
-Vim](https://github.com/HenryNewcomer/vim-theme-papaya). Some of the syntax
-coloring elemens in Vim do not have a direct equivalent inside VS Code and
-*vice versa*.
+2. Enter the term `papaya` into the search field in the upper left corner
+3. Select the correct theme from the list and press "Install"
