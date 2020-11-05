@@ -1,0 +1,21 @@
+{
+    "name": "papaya",
+    "displayName": "Papaya",
+    "description": "Focus on what is important",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Papaya",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Papaya-color-theme.json"
+            }
+        ]
+    }
+}
