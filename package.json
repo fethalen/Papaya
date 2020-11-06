@@ -1,10 +1,10 @@
 {
     "name": "papaya",
-    "displayName": "Papaya",
-    "description": "Attention to the important things",
+    "displayName": "Papaya Theme",
+    "description": "A dark theme for Visual Studio Code based on a Vim theme",
     "publisher": "fethalen",
-    "icon": "https://raw.githubusercontent.com/fethalen/papaya/main/images/logo_128x128.png",
-    "version": "0.1.1",
+    "icon": "images/logo_128x128.png",
+    "version": "0.1.2",
     "repository": {
         "type": "git",
         "url": "git://github.com/fethalen/papaya.git"
